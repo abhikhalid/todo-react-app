@@ -1,0 +1,9 @@
+React Js Todo Application
+
+1. firebase
+2. React
+3. TODO app
+4. Database
+5. Deployed online
+
+go to firebase console and config file, add it to your project named 'firebase.js'
